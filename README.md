@@ -1,4 +1,4 @@
-### Automatic assessment of the need for endodontic surgery in medial OPG (Orthopantomogram) calcification.
+### Automatic recognizing of the need for endodontic surgery from OPG (Orthopantomogram).
 
 - When the pulp inside your tooth becomes infected, the only way to treat this issue and preserve your natural tooth is by removing the pulp from the tooth.
 - Dentists can usually address this issue and repair the tooth using non-surgical (non-invasive) methods or root canal treatment (endodontic therapy). However, in some cases, there may be no solution other than dental surgery. 
